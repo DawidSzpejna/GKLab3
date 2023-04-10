@@ -121,6 +121,7 @@ namespace View
 
             return (tmp, x, y, doIt);
         }
+
         #endregion
     }
 }
